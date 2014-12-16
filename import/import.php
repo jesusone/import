@@ -1,3 +1,4 @@
+<?php
 function insertDB(){
 		require("reader.imports.class.php");
         $user =& JFactory::getUser();
